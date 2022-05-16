@@ -9,4 +9,12 @@ namespace HumanReadableTime
             Console.WriteLine("Hello World!");
         }
     }
+
+    public static class TimeFormat
+    {
+        public static string GetReadableTime(int seconds)
+        {
+
+        }
+    }
 }
